@@ -1,7 +1,7 @@
 
 ; jira {{{
 
-(setq jiralib-url "https://xpologistics.atlassian.net") 
+(setq jiralib-url "") 
 
 (load-file "~/.emacs.d/soap-client/jira2.el")
 (load-file "~/.emacs.d/org-jira/jiralib.el")
